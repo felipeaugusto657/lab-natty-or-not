@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A revolução das inteligências artificiais e a jornada para Sirius ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 7 páginas explora com uma história futurista de ficção científica a evolução das Inteligências Artificiais ao longo de mil anos e como elas impulsionaram a conquista espacial, levando a humanidade até o sistema de Sirius. Durante essa jornada, foi feito um contato surpreendente com uma civilização alienígena avançada, revelando segredos sobre o futuro da humanidade e seu próximo passo evolutivo. Imagens e fundos gerados por IA acompanham cada página, ilustrando o avanço tecnológico e os cenários cósmicos dessa ficção.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Bing Image Creator que utiliza o DALL-E 3, para criar a arte visual do e-book;
+Ferramenta Microsoft Word 2019 para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT como uma ferramenta essencial para estruturar o conteúdo do meu e-book e aprimorar minhas ideias ao longo do projeto. As imagens foram geradas com o Bing Image Creator, trazendo visuais exclusivos para acompanhar cada parte da narrativa. Por fim, utilizei o Microsoft Word para realizar a montagem final do e-book, aproveitando suas funcionalidades avançadas para a formatação e inserção de imagens.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta uma narrativa futurista intrigante, complementada por visuais impressionantes gerados por IA. O projeto demonstra como as IAs Generativas podem ser utilizadas de forma criativa na produção de conteúdo literário e visual, destacando seu potencial na inovação e na exploração de novos conceitos dentro da ficção científica.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+LINK PARA O E-BOOK
+
+## 💭 Reflexão
+Desenvolver este e-book utilizando IAs generativas foi um processo repleto de descobertas e desafios. Um dos principais desafios foi equilibrar a criatividade humana com as sugestões da inteligência artificial, especialmente ao estruturar o conteúdo de forma coesa e manter uma narrativa envolvente. Além disso, a criação das imagens geradas por IA exigiu várias tentativas e ajustes nos prompts até que o resultado visual refletisse adequadamente o ambiente e o tom do e-book. Outro ponto foi a montagem final, onde integrar texto e imagens de forma harmoniosa no Microsoft Word exigiu atenção especial à formatação e ao design. Apesar das dificuldades, o projeto mostrou o quanto essas ferramentas podem ampliar nossa capacidade criativa, embora seja necessário um bom senso crítico para guiar o processo e garantir que o produto final esteja alinhado à visão desejada.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
