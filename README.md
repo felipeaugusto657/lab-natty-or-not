@@ -15,7 +15,7 @@ Utilizei o ChatGPT como uma ferramenta essencial para estruturar o conteúdo do 
 ## 🚀 Resultados
 O e-book apresenta uma narrativa futurista intrigante, complementada por visuais impressionantes gerados por IA. O projeto demonstra como as IAs Generativas podem ser utilizadas de forma criativa na produção de conteúdo literário e visual, destacando seu potencial na inovação e na exploração de novos conceitos dentro da ficção científica.
 
-LINK PARA O E-BOOK
+[LINK PARA O E-BOOK]()
 
 ## 💭 Reflexão
 Desenvolver este e-book utilizando IAs generativas foi um processo repleto de descobertas e desafios. Um dos principais desafios foi equilibrar a criatividade humana com as sugestões da inteligência artificial, especialmente ao estruturar o conteúdo de forma coesa e manter uma narrativa envolvente. Além disso, a criação das imagens geradas por IA exigiu várias tentativas e ajustes nos prompts até que o resultado visual refletisse adequadamente o ambiente e o tom do e-book. Outro ponto foi a montagem final, onde integrar texto e imagens de forma harmoniosa no Microsoft Word exigiu atenção especial à formatação e ao design. Apesar das dificuldades, o projeto mostrou o quanto essas ferramentas podem ampliar nossa capacidade criativa, embora seja necessário um bom senso crítico para guiar o processo e garantir que o produto final esteja alinhado à visão desejada.
